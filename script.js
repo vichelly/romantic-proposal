@@ -45,7 +45,7 @@ function contentChange(t){
         var w2 = document.querySelector('.wrapper2');
         w2.style.display = "flex";
         let audio = document.getElementById("meuAudio");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -56,7 +56,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio2");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -67,7 +67,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio2");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio3");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -78,7 +78,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio3");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio4");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -89,7 +89,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio4");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio5");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -100,7 +100,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio5");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio6");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -111,7 +111,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio6");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio7");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -122,7 +122,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio7");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio8");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -133,7 +133,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio8");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio9");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -144,7 +144,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio9");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio10");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -155,7 +155,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio10");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio11");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -166,7 +166,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio11");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio12");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -177,7 +177,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio12");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio13");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -188,7 +188,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio13");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio14");
-        audio.volume = 0.3;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -199,7 +199,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio14");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio15");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -210,7 +210,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio15");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio16");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -221,7 +221,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio16");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio17");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -233,7 +233,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio17");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio18");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -245,7 +245,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio18");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio19");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -257,7 +257,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio19");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio20");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -268,7 +268,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio20");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio21");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -280,7 +280,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio21");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio22");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -292,7 +292,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio22");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio23");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -303,7 +303,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio23");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio24");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -314,7 +314,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio24");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio25");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
@@ -325,7 +325,7 @@ function contentChange(t){
         let audioantigo = document.getElementById("meuAudio25");
         audioantigo.pause();
         let audio = document.getElementById("meuAudio");
-        audio.volume = 0.1;
+        audio.volume = 0.4;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);

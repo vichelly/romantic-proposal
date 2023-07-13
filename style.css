@@ -51,7 +51,16 @@ p{
     text-align: center;
 }
 
-
+.frase{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+.fr{
+    padding: 30px;
+    background-color: #FFC3A1;
+    margin: 30px;
+}
 
 .button{
     display: flex;
@@ -161,6 +170,11 @@ section{
     .love{
         margin-bottom: 3vh;
     }
+    .fr{
+        padding: 20px;
+        background-color: #FFC3A1;
+        margin: 20px;
+    }
   }
 
   /* @media (max-width: 620px){
@@ -190,6 +204,11 @@ section{
         margin-top: 10px;
         padding: 10px;
         font-size: 16px;
+    }
+    .fr{
+        padding: 10px;
+        background-color: #FFC3A1;
+        margin: 10px;
     }
   }
 

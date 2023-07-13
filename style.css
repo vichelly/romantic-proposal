@@ -59,7 +59,8 @@ p{
 .fr{
     padding: 30px;
     background-color: #FFC3A1;
-    margin: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .button{
@@ -94,7 +95,7 @@ button{
 .love{
     height: 30vh;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     margin-bottom: 5vh;
 }
@@ -173,7 +174,8 @@ section{
     .fr{
         padding: 20px;
         background-color: #FFC3A1;
-        margin: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
   }
 
@@ -208,7 +210,8 @@ section{
     .fr{
         padding: 10px;
         background-color: #FFC3A1;
-        margin: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
   }
 

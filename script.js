@@ -71,7 +71,7 @@ function contentChange(t){
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
-        btn.innerHTML = "Trocar Música (With You)";
+        btn.innerHTML = "Trocar Música (Just The Two Of Us)";
         btn.classList.add("nineteenth");
     }
     if(className == 'nineteenth'){
@@ -324,12 +324,23 @@ function contentChange(t){
     if(className == '31th'){
         let audioantigo = document.getElementById("meuAudio25");
         audioantigo.pause();
+        let audio = document.getElementById("meuAudio26");
+        audio.volume = 0.5;
+        audio.currentTime = 0;
+        audio.play();
+        btn.classList.remove(className);
+        btn.innerHTML = "Trocar Música (With You)";
+        btn.classList.add("32th");
+    }
+    if(className == '32th'){
+        let audioantigo = document.getElementById("meuAudio26");
+        audioantigo.pause();
         let audio = document.getElementById("meuAudio");
         audio.volume = 0.5;
         audio.currentTime = 0;
         audio.play();
         btn.classList.remove(className);
-        btn.innerHTML = "Trocar Música (Just The Two Of Us)";
+        btn.innerHTML = "Trocar Música (I Want To Know What Love Is)";
         btn.classList.add("seventh");
     }
 }
